@@ -6,8 +6,6 @@ import datetime
 import folium
 from streamlit_folium import folium_static
 
-st.write("Hello Data Analytics Students")
-
 # Centered title using Markdown
 st.markdown("<h1 style='text-align: center;'> Solar PV Forecaster 🌤️ </h1>", unsafe_allow_html=True)
 
